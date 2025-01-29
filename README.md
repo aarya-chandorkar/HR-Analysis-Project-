@@ -1,11 +1,7 @@
 **HR Analytics Project Report**
 
 ## **1. Introduction**
-### **Purpose**
-The objective of this project is to analyze an HR dataset to understand employee behavior, identify key factors influencing satisfaction and performance, and provide actionable recommendations to enhance retention and productivity.
-
-### **Problem Statement**
-Employee turnover and dissatisfaction pose significant challenges for organizations. This analysis aims to uncover the factors affecting employee satisfaction, attrition rates, and performance to improve HR management strategies.
+The objective of this project is to analyze an HR dataset to understand employee behavior, identify key factors influencing satisfaction and performance, and provide actionable recommendations to enhance retention and productivity.Employee turnover and dissatisfaction pose significant challenges for organizations. This analysis aims to uncover the factors affecting employee satisfaction, attrition rates, and performance to improve HR management strategies.
 
 ## **2. Data Preparation & Cleaning**
 - **Dataset Loaded:** Used Pandas to import the dataset.
